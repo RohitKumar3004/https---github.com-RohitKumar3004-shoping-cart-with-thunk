@@ -1,0 +1,17 @@
+.top{
+    background-color: darkcyan;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px ;
+}
+.banner{
+    color: white;
+}
+.rightSide{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 2rem;
+    color: white;
+}
